@@ -8,7 +8,7 @@ This project is a simple list of tasks, de coristuvach you can add, see that red
 - CSS
 - JavaScript
 
-## Yak koristuvatsya
+## How to use
 
 1. View `index.html` in your web browser.
 2. Enter the text of the new task in the text field.
